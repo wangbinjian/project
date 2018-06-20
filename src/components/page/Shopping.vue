@@ -4,7 +4,7 @@
             <Row>
                 <Col span="24">
                     <p v-show="getshop.length==0" class="nothing">
-                        <Icon type="heart-broken"></Icon>&nbsp你的购物车是空的......
+                        <Icon type="heart-broken"></Icon>&nbsp;你的购物车是空的......
                     </p>
                 </Col>
             </Row> 

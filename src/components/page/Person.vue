@@ -3,7 +3,7 @@
         <Col span="24">
             <Row class="headerbox1">
                 <Col span="24" class="headerbox2">
-                    <img src="http://img4.duitang.com/uploads/blog/201408/23/20140823235955_ymUkf.thumb.700_0.jpeg" alt="">
+                    <img src="http://img2.ph.126.net/b6BurOEhdBbKRmvGXR15Tw==/6631311857280755342.jpg" alt="">
                     <p>{{getusername.name}}</p>
                 </Col>
             </Row>
@@ -99,7 +99,7 @@ export default {
     }
     .headerbox1{
         height: 150px;
-        background: url("http://img4.duitang.com/uploads/blog/201408/23/20140823235955_ymUkf.thumb.700_0.jpeg") no-repeat;
+        background: url("http://img2.ph.126.net/b6BurOEhdBbKRmvGXR15Tw==/6631311857280755342.jpg") no-repeat;
         background-size:cover;
     }
     .headerbox2{

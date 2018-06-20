@@ -132,7 +132,7 @@
                     <router-link 
                     :to="{name: 'gamedetails',params:{oitem:xitem}}" 
                     tag="a" style="font-size:15px">
-                    详情&nbsp<Icon type="ios-more"></Icon>
+                    详情&nbsp;<Icon type="ios-more"></Icon>
                     </router-link>
                     <p>{{xitem.illustrate}}</p>
                 </Col>
